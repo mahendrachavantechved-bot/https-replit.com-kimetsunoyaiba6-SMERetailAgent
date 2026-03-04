@@ -1,7 +1,6 @@
 flet==0.24.1
-plotly==5.22.0
 matplotlib
 pandas
 networkx
 requests
-deep-translator
+numpy
